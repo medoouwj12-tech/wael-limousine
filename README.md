@@ -61,10 +61,21 @@ npm run dev        # watch mode for local development
 This is a static site. Drop the whole folder (except `node_modules/`) onto any static host:
 
 - **Netlify** — drag & drop the folder, zero config
-- **Vercel** — same
+- **Vercel** — `vercel.json` is included; just push to a repo and import
 - **GitHub Pages** — push to a repo, enable Pages
 - **Hostinger / cPanel** — upload via FTP to `public_html/`
 - **Nginx / Apache** — point a vhost at the folder
+
+### Vercel deploy
+
+A `vercel.json` is preconfigured:
+- `buildCommand`: `npm run build` (compiles Tailwind)
+- `outputDirectory`: `.` (serves the project root as static files — no `public/` folder needed)
+- `framework`: `null` (treated as a static site, not auto-detected as Node)
+
+`.vercelignore` is also included to skip dev scripts, screenshots, and `node_modules/`.
+
+If Vercel still fails with `No Output Directory named "public"`, delete `.vercelignore` and `vercel.json`, then drag-drop the project folder onto vercel.com/new (it'll auto-detect as a static site).
 
 ### Important before going live
 

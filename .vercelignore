@@ -1,0 +1,27 @@
+# Vercel ignore — files NOT to deploy
+
+# Dependencies
+node_modules/
+
+# Build outputs that should be regenerated
+# (keep css/styles.css since it's the pre-compiled output)
+
+# Dev / verification screenshots
+_demo_*.png
+_final_*.png
+
+# Dev scripts (not needed in production)
+screenshot.cjs
+screenshot-all.cjs
+screenshot-fleet.cjs
+rename-cars.cjs
+resize-icons.cjs
+resize-icons.ps1
+package.cjs
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.log
