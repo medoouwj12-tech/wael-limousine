@@ -1,0 +1,17 @@
+{
+  "name": "wael-limousine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Wael Limousine — Premium chauffeur service in Giza & Cairo",
+  "scripts": {
+    "dev": "tailwindcss -i css/input.css -o css/styles.css --watch",
+    "build": "tailwindcss -i css/input.css -o css/styles.css --minify",
+    "build:dev": "tailwindcss -i css/input.css -o css/styles.css"
+  },
+  "devDependencies": {
+    "archiver": "^8.0.0",
+    "playwright": "^1.61.1",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^3.4.17"
+  }
+}

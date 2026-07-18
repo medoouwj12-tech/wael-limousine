@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /sw.js
+Disallow: /manifest.webmanifest
+
+Sitemap: https://waellimousine.com/sitemap.xml

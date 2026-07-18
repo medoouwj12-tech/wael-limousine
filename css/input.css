@@ -1,0 +1,11 @@
+/* ============================================
+   Wael Limousine — Main Stylesheet Entry
+   Compiled via Tailwind CSS CLI
+   Order matters: imports first, then @tailwind
+   ============================================ */
+
+@import './components.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
