@@ -10,13 +10,13 @@ const CARS_DIR = path.join('D:\\وائل', 'images', 'cars');
 const RENAMES = {
   'mercedes-sclass-maybach.jpg': 'kia-carnival.jpg',
   'mercedes-g63-amg.jpg':        'hyundai-elantra-2024.jpg',
-  'mercedes-e-class.jpg':        'foton-view-van.jpg',
+  'mercedes-e-class.jpg':        'glory.jpg',
   'mercedes-glc-300.jpg':        'mercedes-g63-amg.jpg',
   'kia-carnival.jpg':            'toyota-corolla.jpg',
   'mg-rx5-plus.jpg':             'mercedes-sclass-maybach.jpg',
   'hyundai-elantra-2024.jpg':    'mercedes-e-class.jpg',
   'toyota-corolla.jpg':          'mercedes-e-class-white.jpg', // second E-Class photo (white)
-  'foton-view-van.jpg':          'mg-rx5-plus.jpg'
+  'glory.jpg':          'mg-rx5-plus.jpg'
 };
 
 // First: do a temp-rename to avoid collisions (e.g., kia-carnival.jpg -> toyota-corolla.jpg

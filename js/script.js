@@ -19,7 +19,7 @@
     { id: 'mgrx5', name: 'MG RX5 Plus', nameAr: 'إم جي آر إكس 5 بلس', image: 'images/cars/mg-rx5-plus.jpg', category: { en: 'SUV', ar: 'SUV' }, seats: 5, luggage: 4, ac: 'Dual-Zone' },
     { id: 'elantra', name: 'Hyundai Elantra 2024', nameAr: 'هيونداي إلنترا 2024', image: 'images/cars/hyundai-elantra-2024.jpg', category: { en: 'Sedan', ar: 'سيدان' }, seats: 4, luggage: 3, ac: 'Dual-Zone' },
     { id: 'corolla', name: 'Toyota Corolla', nameAr: 'تويوتا كورولا', image: 'images/cars/toyota-corolla.jpg', category: { en: 'Sedan', ar: 'سيدان' }, seats: 4, luggage: 3, ac: 'Climate' },
-    { id: 'foton', name: 'Foton View', nameAr: 'فوتون فيو — فان عائلي', image: 'images/cars/foton-view-van.jpg', category: { en: 'Family Van', ar: 'فان عائلي' }, seats: 7, luggage: 5, ac: 'Climate' },
+    { id: 'glory', name: 'Glory', nameAr: 'جلوري — فان عائلي', image: 'images/cars/glory.jpg', category: { en: 'Family Van', ar: 'فان عائلي' }, seats: 7, luggage: 5, ac: 'Climate' },
     { id: 'elantra-gray', name: 'Hyundai Elantra', nameAr: 'هيونداي إلنترا', image: 'images/cars/hyundai-elantra-gray.jpg', category: { en: 'Sedan', ar: 'سيدان' }, seats: 4, luggage: 3, ac: 'Dual-Zone' },
     { id: 'mg5', name: 'MG 5', nameAr: 'إم جي 5', image: 'images/cars/mg5-red.jpg', category: { en: 'Sedan', ar: 'سيدان' }, seats: 5, luggage: 3, ac: 'Dual-Zone' },
     { id: 'hiace', name: 'Toyota HiAce', nameAr: 'تويوتا هاي إيس', image: 'images/cars/toyota-hiace.jpg', category: { en: 'Luxury Van', ar: 'فان فاخر' }, seats: 12, luggage: 8, ac: 'Tri-Zone' },

@@ -148,7 +148,7 @@ If Vercel still fails with `No Output Directory named "public"`, delete `.vercel
 6. MG RX5 Plus
 7. Hyundai Elantra 2024
 8. Toyota Corolla
-9. Foton View (family van)
+9. Glory (family van)
 
 To swap any photo, replace the file with the same name (keep `.jpg`).
 
