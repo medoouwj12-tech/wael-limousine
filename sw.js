@@ -3,7 +3,7 @@
    Strategy: cache-first for assets, network-first for HTML
    ============================================ */
 
-const CACHE_VERSION = 'wl-v1.3.0';
+const CACHE_VERSION = 'wl-v1.4.0';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
@@ -16,6 +16,7 @@ const PRECACHE_URLS = [
   '/images/og-image.png',
   '/images/favicon-32x32.png',
   '/images/apple-touch-icon.png',
+  '/images/cars/mitsubishi-xpander.jpg',
   '/icons/icon-192.png',
   '/icons/icon-512.png',
   '/icons/icon-maskable-512.png',
