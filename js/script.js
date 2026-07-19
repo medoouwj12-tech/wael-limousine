@@ -23,7 +23,8 @@
     { id: 'elantra-gray', name: 'Hyundai Elantra', nameAr: 'هيونداي إلنترا', image: 'images/cars/hyundai-elantra-gray.jpg', category: { en: 'Sedan', ar: 'سيدان' }, seats: 4, luggage: 3, ac: 'Dual-Zone' },
     { id: 'mg5', name: 'MG 5', nameAr: 'إم جي 5', image: 'images/cars/mg5-red.jpg', category: { en: 'Sedan', ar: 'سيدان' }, seats: 5, luggage: 3, ac: 'Dual-Zone' },
     { id: 'hiace', name: 'Toyota HiAce', nameAr: 'تويوتا هاي إيس', image: 'images/cars/toyota-hiace.jpg', category: { en: 'Luxury Van', ar: 'فان فاخر' }, seats: 12, luggage: 8, ac: 'Tri-Zone' },
-    { id: 'coaster', name: 'Toyota Coaster', nameAr: 'تويوتا كوستر', image: 'images/cars/toyota-coaster.jpg', category: { en: 'Mini Bus', ar: 'ميني باص' }, seats: 30, luggage: 10, ac: 'Multi-Zone' }
+    { id: 'coaster', name: 'Toyota Coaster', nameAr: 'تويوتا كوستر', image: 'images/cars/toyota-coaster.jpg', category: { en: 'Mini Bus', ar: 'ميني باص' }, seats: 30, luggage: 10, ac: 'Multi-Zone' },
+    { id: 'xpander', name: 'Mitsubishi Xpander 2024', nameAr: 'ميتسوبيشي إكسباندر 2024', image: 'images/cars/mitsubishi-xpander.jpg', category: { en: 'Family MPV', ar: 'MPV عائلي' }, seats: 7, luggage: 4, ac: 'Dual-Zone' }
   ];
 
   // ============ TESTIMONIALS DATA ============
@@ -155,7 +156,7 @@
       'test.desc': 'قصص حقيقية من مسافرين ورجال أعمال وعائلات اختاروا وائل ليموزين.',
       'about.eyebrow': 'من نحن',
       'about.title': 'عقد من الخدمة الراقية',
-      'about.p1': 'بدأت وائل ليموزين من أكتر من 10 سنين بعربية مرسيدس واحدة ووعد بسيط: نقدّم تجربة سائق خاص تليق بالاسم. دلوقتي، أسطولنا كبر لـ 13 سيارة فاخرة — لكن الوعد ما اتغيرش.',
+      'about.p1': 'بدأت وائل ليموزين من أكتر من 10 سنين بعربية مرسيدس واحدة ووعد بسيط: نقدّم تجربة سائق خاص تليق بالاسم. دلوقتي، أسطولنا كبر لـ 14 سيارة فاخرة — لكن الوعد ما اتغيرش.',
       'about.p2': 'من أبراج العاصمة الإدارية الجديدة لحجارة أهرامات الجيزة الخالدة، شرفنا نقل آلاف العملاء — دبلوماسيين، رجال أعمال، عرسان جداد، ومعتمرين — عبر كل حتة في مصر.',
       'about.p3': 'كل سائق في فريقنا بيتم اختياره بعناية، بيتكلم إنجليزي، ومتدرّب على فن خدمة VIP الهادئة. كل عربية بتتلمع لحالة المعرض قبل كل رحلة. كل حجز بيتعمل برسالة واتساب واحدة — بدون تطبيقات، بدون انتظار، بدون تعقيد.',
       'about.cta1': 'احجز رحلتك',
@@ -281,7 +282,7 @@
       'test.desc': 'Real stories from travelers, executives, and families who chose Wael Limousine.',
       'about.eyebrow': 'About Us',
       'about.title': 'A Decade of Refined Service',
-      'about.p1': "Wael Limousine began over a decade ago with a single Mercedes and a simple promise: deliver a chauffeur experience worthy of the name. Today, our fleet has grown to thirteen premium vehicles — but the promise hasn't changed.",
+      'about.p1': "Wael Limousine began over a decade ago with a single Mercedes and a simple promise: deliver a chauffeur experience worthy of the name. Today, our fleet has grown to fourteen premium vehicles — but the promise hasn't changed.",
       'about.p2': "From the gleaming towers of the New Administrative Capital to the timeless stones of the Pyramids of Giza, we've had the privilege of moving thousands of clients — diplomats, executives, honeymooners, and pilgrims — across every corner of Egypt.",
       'about.p3': "Every chauffeur on our team is handpicked, English-speaking, and trained in the art of discreet VIP service. Every vehicle is detailed to showroom condition before each ride. Every booking is handled with a single WhatsApp message — no apps, no waiting, no hassle.",
       'about.cta1': 'Reserve Your Ride',
