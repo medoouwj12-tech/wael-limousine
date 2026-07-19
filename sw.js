@@ -3,7 +3,7 @@
    Strategy: cache-first for assets, network-first for HTML
    ============================================ */
 
-const CACHE_VERSION = 'wl-v1.4.0';
+const CACHE_VERSION = 'wl-v1.5.0';
 const STATIC_CACHE = `${CACHE_VERSION}-static`;
 const RUNTIME_CACHE = `${CACHE_VERSION}-runtime`;
 
